@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A88E8687-7976-43BD-93F2-FE26DAA0ABDB}</ProjectGuid>
+    <ProjectGuid>{DCEC8F4E-C86E-487D-932B-B56FBCE91344}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DataAccess</RootNamespace>
-    <AssemblyName>DataAccess</AssemblyName>
+    <RootNamespace>DataAcces</RootNamespace>
+    <AssemblyName>DataAcces</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

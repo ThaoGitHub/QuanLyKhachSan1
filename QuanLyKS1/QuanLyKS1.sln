@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyKS1", "QuanLyKS1\QuanLyKS1.csproj", "{BB0EA885-CE9B-40B9-8455-397349BD3804}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUS", "BUS\BUS.csproj", "{7A2CE331-933A-4B4E-B19F-10F1F2C730FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAcces", "DataAcces\DataAcces.csproj", "{DCEC8F4E-C86E-487D-932B-B56FBCE91344}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{BB0EA885-CE9B-40B9-8455-397349BD3804}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB0EA885-CE9B-40B9-8455-397349BD3804}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB0EA885-CE9B-40B9-8455-397349BD3804}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A2CE331-933A-4B4E-B19F-10F1F2C730FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A2CE331-933A-4B4E-B19F-10F1F2C730FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A2CE331-933A-4B4E-B19F-10F1F2C730FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A2CE331-933A-4B4E-B19F-10F1F2C730FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCEC8F4E-C86E-487D-932B-B56FBCE91344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCEC8F4E-C86E-487D-932B-B56FBCE91344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCEC8F4E-C86E-487D-932B-B56FBCE91344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCEC8F4E-C86E-487D-932B-B56FBCE91344}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
